@@ -1,0 +1,51 @@
+body{ background-color: lightpink; }
+h1
+{ 
+	color: deeppink; 
+	text-align: center;
+}
+
+
+
+.pony
+{
+	background-color: #C71585;
+	height: 200px;
+	width: 100%;
+	padding: 30px;
+	border: 4px dotted orange;
+	margin-top: 50px;
+	display: inline-block;
+	position: relative;
+	float: left;
+}
+.links 
+{ 
+		
+	color: #000;
+	background-color: red;
+	display: inline-block;
+	position: absolute;
+	left: 25%;
+	vertical-align: middle;
+	float: left;
+
+}
+.lol{
+	color: skyblue;
+	display: inline-block;
+	position: absolute;
+	left: 50%;
+	top: 15%;
+	float: left;
+}
+
+.header span 
+{
+	display: block;
+	font-size: 30px;
+	line-height: 2;
+}
+
+
+
